@@ -16,3 +16,6 @@ XGBoost is a powerful boosting algorithm that enhances decision trees' predictiv
 
 4. Long Short-Term Memory (LSTM)
 LSTM, a deep learning-based recurrent neural network (RNN) variant, is specifically designed to handle sequential data and long-term dependencies. It excels in capturing temporal patterns in CO levels and provides accurate short-term forecasts. However, LSTM models require significant computational resources and large datasets for effective training.
+
+## RSME and MAE
+![RSME and MAE](https://github.com/user-attachments/assets/8c6eb33a-75b4-4d61-a4dc-6e6a365688b4)
