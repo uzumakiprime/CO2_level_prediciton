@@ -4,7 +4,7 @@ Prediction of C02 level using a historic dataset. Used various ML models.
 ## Project overview
 This project aims to forecast carbon monoxide (CO) levels in air quality data using various machine learning models. Accurate air quality prediction is crucial for public health and environmental monitoring, making this study valuable for early warnings and policy-making. We explore different models, ranging from traditional statistical approaches to advanced deep learning techniques, to compare their effectiveness in short-term air quality forecasting.
 
-##Dataset
+## Dataset
 https://archive.ics.uci.edu/ml/datasets/Air+Quality 
 
 ## Models used
